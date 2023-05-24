@@ -39,7 +39,7 @@ main.container{
   padding: 6px;
 }
 /* Style the heading element */
-.description h2{
+.description h1{
   font-size: 22px;
 }
 /* Style the paragraph element */
