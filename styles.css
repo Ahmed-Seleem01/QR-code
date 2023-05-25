@@ -33,7 +33,7 @@ main.container{
 }
 /* Style the wrapper element of the text content */
 .container .description{
-  padding: 6px;
+  padding: 0 15px;
 }
 /* Style the heading element */
 .description h1{
@@ -41,6 +41,7 @@ main.container{
 }
 /* Style the paragraph element */
 .description p{
+  font-size: 15px;
   color: hsl(220, 15%, 55%);
 }
 
